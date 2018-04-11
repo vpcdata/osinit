@@ -1,2 +1,3 @@
 sudo yum update
-sudo yum install git -y
+yum install -y bash-completion
+sudo yum -y install git
